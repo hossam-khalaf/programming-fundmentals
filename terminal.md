@@ -14,7 +14,7 @@ These essential commands will help you navigate, explore, and perform simple act
   > Output the full path of the current working directory for this terminal
 - **cat [FILE]**
   > This command has many uses, but most commonly for beginners, cat is used to output the contents of a [FILE] to the termina
-- **touch**
+- **touch [file name.extension]**
   > Create new file but you have to include file extenstion
 - **mkdir [FOLDER_NAME]**
   > Create a new folder with the desired [FOLDER_NAME]. 
