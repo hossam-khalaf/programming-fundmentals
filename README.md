@@ -1,5 +1,7 @@
 # Programming fundmentals
 
+![Black Box!](/img/blackbox.jpg]
+
 ## Represent numbers
 
 - unary 0 , 1
@@ -10,6 +12,7 @@
 - 1 0 0 => 4
 - 0 0 0 0 0 0 0 1
 
+![Processor Transistors!](/img/transistor.jpg]
 Transistor => on off
 true false
 
