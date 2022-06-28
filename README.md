@@ -1,6 +1,6 @@
 # Programming fundmentals
 
-![Black Box!](/img/blackbox.jpg]
+![Black Box!](https://github.com/hossam-khalaf/programming-fundmentals/blob/master/img/blackBox.webp)
 
 ## Represent numbers
 
@@ -12,7 +12,7 @@
 - 1 0 0 => 4
 - 0 0 0 0 0 0 0 1
 
-![Processor Transistors!](/img/transistor.jpg]
+![Processor Transistors!](https://github.com/hossam-khalaf/programming-fundmentals/blob/master/img/transistor.jpg)
 Transistor => on off
 true false
 
