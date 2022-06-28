@@ -4,4 +4,4 @@ These essential commands will help you navigate, explore, and perform simple act
 
 - **ls**
 
-  < List the normal files and folders in the current directory
+  > List the normal files and folders in the current directory
