@@ -34,14 +34,14 @@ true false
 
 ### steps
 
-1- (pick up) phone book
-2- (open to) middle of the phone book
-3- (look) at the page
-4- [if] {person => variable-- is on the page}
-5- (call) the person
-6- [else if ]{ person is in the left middle of the book}
-7- ( go back) to line 3 => loop
-8- [else if] {person is in the right middle of the book}
-9- (go back) to line 3 => loop
-10- [else]
-11- (Quit)
+1. (pick up) phone book
+2. (open to) middle of the phone book
+3. (look) at the page
+4. [if] {person => variable-- is on the page}
+5. (call) the person
+6. [else if ]{ person is in the left middle of the book}
+7. ( go back) to line 3 => loop
+8. [else if] {person is in the right middle of the book}
+9. (go back) to line 3 => loop
+10. [else]
+11. (Quit)
